@@ -1,4 +1,4 @@
-Bygg projektet
+1-Bygg projektet
 Kör följande kommando för att kompilera koden:
 
 bash
@@ -8,7 +8,7 @@ Copy code
 make
 
 
-Starta programmet
+2-Starta programmet
 När kompileringen är klar, kör programmet med:
 
 bash
@@ -19,7 +19,7 @@ Copy code
 
 
 
-Följ instruktionerna i menyn
+3-Följ instruktionerna i menyn
 Exempel:
 
 markdown
