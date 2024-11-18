@@ -1,7 +1,7 @@
 1-Bygg projektet
 Kör följande kommando för att kompilera koden:
 
-bash
+bash:
 
 
 make
@@ -10,7 +10,7 @@ make
 2-Starta programmet
 När kompileringen är klar, kör programmet med:
 
-bash
+bash:
 
 
 ./RPGInventorySystem
