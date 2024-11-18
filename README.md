@@ -22,8 +22,7 @@ Copy code
 3-Följ instruktionerna i menyn
 Exempel:
 
-markdown
-Copy code
+
 1. Add item
 2. Display inventory
 3. Use item
