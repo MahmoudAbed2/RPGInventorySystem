@@ -3,6 +3,8 @@ Kör följande kommando för att kompilera koden:
 
 bash
 Copy code
+
+
 make
 
 
@@ -11,6 +13,8 @@ När kompileringen är klar, kör programmet med:
 
 bash
 Copy code
+
+
 ./RPGInventorySystem
 
 
